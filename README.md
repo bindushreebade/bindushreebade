@@ -1,4 +1,4 @@
-## Hi, I'm Bindushree Bade
+## Hi, I'm Bindushree Bade 👩‍💻
 
 ✨ Turning coffee into scalable code.</br>
 💻 Full-stack explorer building real-world tech.</br>
