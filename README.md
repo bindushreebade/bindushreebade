@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bindushreebade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build+today.+Scale+tomorrow.&author=Bindushree+Bade)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I+don%27t+just+see+what+the+code+says.+I+see+how+it+looks.&author=Bindushree+Bade&border=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bindushreebade&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
