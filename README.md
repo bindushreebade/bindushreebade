@@ -81,7 +81,7 @@
 
 # 👀 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=bindushreebade\&icon=5\&color=6)
+![](https://komarev.com/ghpvc/?username=bindushreebade\&color=brightgreen)
 
 ---
 
